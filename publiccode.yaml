@@ -1,6 +1,6 @@
 publiccodeYmlVersion: "0.2"
 
-name: owc
+name: owcpdc
 applicationSuite: commonground
 url: "https://github.com/ConductionNL/commongroundnu"
 landingURL: "dev.commonground.nu" 
@@ -118,4 +118,4 @@ dependsOn:
 
 installations:
   - type: helm
-    url: "https://raw.githubusercontent.com/ConductionNL/OpenWebConcept/master/wordpress-docker/helm/"
+    url: "https://raw.githubusercontent.com/ConductionNL/OpenPdc/master/wordpress-docker/helm/"
