@@ -9,18 +9,18 @@ settings:
 
 mysql:
   port: 3306
-  name: openweb
-  user: openweb
+  name: openweb-pdc
+  user: openweb-pdc
   password: '!changeMe!'
   rootPassword: '!changeMe!'
   volume:
-    claimName: openweb-database
+    claimName: openweb-pdc-database
     size: 8Gi
 
 openweb:
   volume:
-    name: openweb-data
-    claimName: openweb-data
+    name: openweb-pdc-data
+    claimName: openweb-pdc-data
     size: 10Gi
 
 busybox:
