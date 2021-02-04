@@ -9,8 +9,8 @@ entries:
     digest: 9a03e3933e8bbab8e587ee9a8b70b290e4b49d990febe6441d9a3ec8e3106ac0
     home: pc.zaakonline.nl
     icon: pc.zaakonline.nl
-    name: owc
+    name: owc-pdc
     urls:
-    - owc-0.1.0.tgz
+    - owc-pdc-0.1.0.tgz
     version: 0.1.0
 generated: "2020-12-16T14:34:07.3281381+01:00"
